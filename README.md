@@ -2,7 +2,7 @@
 - 👀 I’m interested in recreationnal programming and learning
 - 🌱 I’m currently learning python, html, css, php, javascript...
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me : justpm me
+- 📫 How to reach me : just pm me
 
 <!---
 delen22cl202/delen22cl202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
